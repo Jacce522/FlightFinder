@@ -12,4 +12,4 @@ This Java FX app allows a user to enter an airport and see the departing flights
 # Technologies used:
 * Java
 * Java Swing 
-* Java Jsoup web scraping tools
+* Jsoup web scraping tools
