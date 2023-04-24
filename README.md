@@ -3,13 +3,18 @@ This Java FX app allows a user to enter an airport and see the departing flights
 # Status
 * Ongoing Development 
 
-# Plans for future updates:  
+# Plans for future updates  
 * Add ability to see arrivals to certain airport
 * Add more types of filters(Sort by airline, Sort by flight number, sort by destination)
  
 
   
-# Technologies used:
+# Technologies used
 * Java
 * Java Swing 
 * Jsoup web scraping tools
+
+# Pictures 
+
+![Flight](pictures/flightFinderapp.png)
+![Flight](pictures/flightfinderdisplay.png)
